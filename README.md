@@ -1,5 +1,5 @@
 # BST
-Project that I made for my alghorithm classes
+Project that I made for my alghorithm classes.
 
 Testing for number of operations in binary search tree.
 
